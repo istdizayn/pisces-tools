@@ -1,6 +1,7 @@
-# pisces-p100-tools
-Scripts to perform maintenance on the Pisces P100
+# pisces P100 Tools / Command Code List (  Vollection )
 
+
+Scripts to perform maintenance on the Pisces P100
 
 Pisces P100 Devices , External IP Update Command 
 ```ruby
@@ -8,8 +9,6 @@ sudo /etc/monitor-scripts/external-ip.sh LAN
 ```
 
 Fast Syncronization Command 
-
-
 This is a collection of scripts useful for Pisces miners P100
 DISCLAIMER: Only use this scripts if you know what you are doing!!!
 How to run clear_resync.sh:
