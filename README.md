@@ -53,10 +53,10 @@ sudo docker exec miner miner peer book -c
 Run the script
 Apply changes
 ```ruby
-https://raw.githubusercontent.com/inigoflores/pisces-p100-tools/main/setting_tweaks/apply.sh -O - | sudo bash
+sudo wget https://raw.githubusercontent.com/inigoflores/pisces-p100-tools/main/Not_Found_Fix/apply.sh -O - | sudo bash
 ```
 
 Restore backup of sys.config
 ```ruby
-wget https://raw.githubusercontent.com/inigoflores/pisces-p100-tools/main/setting_tweaks/restore.sh -O - | sudo bash
+sudo wget https://raw.githubusercontent.com/inigoflores/pisces-p100-tools/main/Not_Found_Fix/restore.sh -O - | sudo bash
 ```
