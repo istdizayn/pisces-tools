@@ -1,4 +1,4 @@
-# pisces P100 Tools / Command Code List (  Vollection )
+# pisces P100 Tools / Command Code List (  Collection )
 
 
 Scripts to perform maintenance on the Pisces P100
